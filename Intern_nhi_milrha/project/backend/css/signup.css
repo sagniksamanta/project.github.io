@@ -1,0 +1,54 @@
+h1{
+    color:grey;
+    text-align: center;
+    margin-top: 50px;
+}
+/* i{
+    color: gray;
+    width: auto;
+    size: 10px;
+    margin: auto;
+    margin-right: 10px;
+    
+} */
+.container{
+    height: 11
+    00px;
+    width: 1000px;
+    background-color: rgb(15, 240, 165);
+    border-radius: 15px;
+}
+div.form-group{
+    margin-top: 15px;
+}
+form{
+    margin-top: 50px;
+}
+.button{
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.transfer.p{
+    text-align: center;
+    color: brown;
+}
+.btnregister{
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 5px;
+    text-align: center;
+    background-color:  #0099ff;
+    padding: 10px 20px;;
+    color : #fff;
+    border: none;
+    margin: 4px;
+    cursor: pointer;
+}
+
+
+.transfer a{
+   
+    margin: 5px;
+    color: #0099ff;
+}

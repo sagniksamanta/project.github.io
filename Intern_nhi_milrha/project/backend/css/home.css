@@ -1,0 +1,85 @@
+
+body{
+    font-family: 'Merriweather', serif;
+}
+.welcome{
+
+}
+i{
+    color: #ff3333;
+    width: 20px;
+    size: 20px;
+    margin: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
+button{
+    float: right;
+    border-radius: 5px;
+    color:  #ff3333;
+}
+
+.btn1{
+    color:  #ff3333;
+}
+
+.btnregister{
+    border: 1px solid #ff3333;
+    color:  #ff3333;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.btn1:hover{
+    color: #fff;
+    background-color: #ff3333;
+    transition: 0.9s;
+
+}
+.btn1:hover a{
+    color: honeydew;
+    text-decoration: none;
+}
+.home{
+    text-align: center;
+    height: 700px;
+    padding: 30px 40px;
+    background-color:#ffcccc;
+}
+
+h1 {
+    text-align: center;
+    color: #ff3333;
+    text-shadow: 2px 2px 4px #000000;
+}
+h2{
+    text-align: center;
+    color: #ff3333;
+}
+h3{
+
+    text-align: center;
+    margin-top: 10px;
+}
+
+.info{
+    border: 1px solid #ff3333;
+    height: auto
+    max-width: auto;
+    padding: 20px 30px;
+    text-align: center;
+    border-radius: 15px;
+}
+.info p1{
+    color: black;
+    
+}
+.pic{
+    text-align: center;
+}
+
